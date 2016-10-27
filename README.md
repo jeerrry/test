@@ -8,21 +8,22 @@
 # Mission
 Democratising finance by providing individual investors with professional data and analysis.
 # Components
-* A cross-platform tool that __tracks and aggrigates__ investment performance for individual investors.
-* An open database that allows users __contribute and share__ market data.
-* A data visualization platform where users can __show__ portfolio performance to others.
+* A cross-platform app for __tracking__ investment performance.
+* An dynamic database for __user contributed market data__.
+* A data-driven social network where investors can __share__ performance, __find__ investment products and __promote__ asset management services.
 
 # Market Outlook
-* __Pain Point #1__ : There's no web-based tool can tracks and aggregates multiple cross-asset portfolios.
-* __Pain Point #2__ : Retail investors don't have access to professional performance and risk analysis. They will want it if the cost is low. 
-* __Pain Point #3__ : No vendor can cover the market data needs for all investors. Investors always know better in certain areas.
+* __Pain Point #1__ : Investors with multiple accounts have difficulties consolidating their data. They have to use an externaly application or spreadsheet for account aggregation.
+* __Pian Point #2__ : Portfolio trackers by major websites like Yahoo and Google can not fulfill the needs of sophisticated personal investors. There's no web-based tool can tracks and aggregates multiple cross-asset portfolios.
+* __Pain Point #3__ : Retail investors don't have access to professional performance and risk analysis. They will want it if the cost is low. 
+* __Pain Point #4__ : No vendor can cover the market data needs for all investors. Investors always know better in certain areas.
 * __Market Potential__ : China/Asia is having a boom in personal wealth. The region's under-developed wealth management infrastructure gives unique opportunities for Internet wealth management solutions. Think about Alibaba/Taobao at the dawn of e-commerce. A portfolio tracking platform is the gateway to this new field.
 
 # Roadmap
 ## Minimum Viable Product (MVP)
 __Concept__ : __Low__ function complexity, __Low__ server burden, __High__ user flexibility
 * Web app only.
-* Use Firebase as back end data server, all calculation done by JS at front-end.
+* Use Firebase as back end database, all calculation done by front-end JS.
 * Support multiple instruments: stocks, ETF, CFD, futures and spot FX.
 * Track positions in different asset classes and currencies in one portfolio.
 * Aggregate performance of multiple portfolios.
