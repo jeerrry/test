@@ -1,9 +1,5 @@
 # test
 ### What we have accomplished so far
-* __Multi-currency portfolio__: Positions in different currencies can be grouped in the same portfolio. Portfolio book currency can be updated on-the-fly.
-* __Multi-portfolio aggregation__: Each portfolio can have unlimited layers of sub-portfolios. All descendants' performance are aggregated in a single view.
-* __User data overrides__: User can override any prices from the system to for their own calculation, without affecting others.
-* __Snapshot-based portfolio construction__: An existing portfolio can be replicated in minutes by inputting only the current holdings, regardless the number of past transactions. User can add transactions later and the portfolio seamlessly updates its historical performance. 
 
 # Mission
 Democratising finance by providing individual investors with professional data and analysis.
@@ -21,7 +17,11 @@ Democratising finance by providing individual investors with professional data a
 
 # Roadmap
 ## Minimum Viable Product (MVP)
-__Concept__ : __Low__ function complexity, __Low__ server burden, __High__ user flexibility
+__Highlights__ :
+* __Cross-market portfolios__: Each portfolio can hold securities in multiple markets/currencies. FX impact in market values and PnL are handled as per industry practice. 
+* __Portfolio aggregation__: Performance of sub-portfolios are aggregated to parents. A cascading tree-view
+* __User data overrides__: User can override any prices from the system to for their own calculation, without affecting others.
+* __Snapshot-based portfolio construction__: An existing portfolio can be replicated in minutes by inputting only the current holdings, regardless the number of past transactions. User can add transactions later and the portfolio seamlessly updates its historical performance. 
 * Web app only.
 * Use Firebase as back end database, all calculation done by front-end JS.
 * Support multiple instruments: stocks, ETF, CFD, futures and spot FX.
