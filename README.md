@@ -9,18 +9,15 @@ Democratising finance by providing individual investors with professional data a
 * A data-driven social network where investors can __share__ performance, __find__ investment products and __promote__ asset management services.
 
 # Market Outlook
-
 ### Portfolio tracker pain points
 * Only holdings rather than transactions are recorded, making past performance unreliable. _(Yahoo Finance, Bloomberg Watchlist)_
 * Securities in different currencies cannot exist in the same portfolio. _(SigFig, Ticker)_
-* Performance in multiple portoflios cannot be consolidated. _(Google Finance)_
+* Unable to consolidate performance of multiple portoflios. _(Google Finance)_
 * Limited cross-platform support. _(Google Finance, Yahoo Finance)_
+* Tedious manual process to add transacitons. _(Nearly all apps)_
 
-* __Pain Point #1__ : It's difficult to consolidate portfolios in multiple investment accounts.
-* __Pain Point #2__ : Portfolio trackers by major websites like Yahoo and Google can not fulfill the needs of sophisticated personal investors. There's no web-based tool can tracks and aggregates multiple cross-asset portfolios.
-* __Pain Point #3__ : Retail investors don't have access to professional performance and risk analysis. They will want it if the cost is low. 
-* __Pain Point #4__ : No vendor can cover the market data needs for all investors. Investors always know better in certain areas.
-* __Market Potential__ : China/Asia is having a boom in personal wealth. The region's under-developed wealth management infrastructure gives unique opportunities for Internet wealth management solutions. Think about Alibaba/Taobao at the dawn of e-commerce. A portfolio tracking platform is the gateway to this new field.
+### Market Pontential
+* China/Asia is having a boom in personal wealth. The region's under-developed wealth management infrastructure gives unique opportunities for Internet wealth management solutions. Think about Alibaba/Taobao at the dawn of e-commerce. A portfolio tracking platform is the gateway to this new field.
 
 # Roadmap
 ## Minimum Viable Product (MVP)
