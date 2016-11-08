@@ -11,10 +11,10 @@ Democratising finance by providing individual investors with professional data a
 # Market Outlook
 
 ### Portfolio tracker pain points
-* Portfolio only records holdings rather than transactions. Users cannot track their past performance.
-* Securities in different currencies cannot be held in the same portfolio, making some cross-market strategies un-trackable.
-* Lack of account aggregation function to consolidate performance of multiple portfolios.
-* Lack of cross-platform support where user can access their portfolios via mobile and browser.
+* Only holdings rather than transactions are recorded, making past performance unreliable. _(Yahoo Finance, Bloomberg Watchlist)_
+* Securities in different currencies cannot exist in the same portfolio. _(SigFig, Ticker)_
+* Performance in multiple portoflios cannot be consolidated. _(Google Finance)_
+* Limited cross-platform support. _(Google Finance, Yahoo Finance)_
 
 * __Pain Point #1__ : It's difficult to consolidate portfolios in multiple investment accounts.
 * __Pain Point #2__ : Portfolio trackers by major websites like Yahoo and Google can not fulfill the needs of sophisticated personal investors. There's no web-based tool can tracks and aggregates multiple cross-asset portfolios.
